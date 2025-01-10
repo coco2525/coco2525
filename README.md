@@ -7,7 +7,7 @@ I’m a Master’s student in Business Analytics with a passion for data-driven 
 ## 🌟 Featured Projects
 ### [1. Satellite Image Classification System](https://github.com/coco2525/satellite-image-classification)
 A machine learning project for classifying satellite images into four categories: cloudy, desert, forest, and water.
-**Tools**: Colab, Python
+**Tools**: Colab, Python  
 
 **Key Features**:
 - Preprocessing using RGB, grayscale, LBP, and edge detection.
@@ -17,7 +17,7 @@ A machine learning project for classifying satellite images into four categories
 
 ### [2. Tokyo Rental Rate Forecasting](https://github.com/coco2525/tokyo-rental-forecasting)
 A machine learning project predicting rental rates for properties along Tokyo’s Odakyu Line.
-**Tools**: Colab, Python  
+**Tools**: Colab, Python   
 
 **Key Features**:
 - Data scraping from real estate listings.
