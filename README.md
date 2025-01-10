@@ -2,8 +2,6 @@
 
 I’m a Master’s student in Business Analytics with a passion for data-driven problem-solving. I specialize in data analysis, machine learning, and visualization, and enjoy building projects that turn insights into impactful results.
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=coco2525&show_icons=true&locale=en&layout=compact)
-
 ---
 
 ## 🌟 Featured Projects
