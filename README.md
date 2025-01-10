@@ -1,6 +1,6 @@
-# Hi, I'm Momo Ogawa 👋
+# Welcome to my GitHub. 👋
 
-Welcome to my GitHub profile! I’m a Master’s student in Business Analytics with a passion for data-driven problem-solving. I specialize in data analysis, machine learning, and visualization, and enjoy building projects that turn insights into impactful results.
+I’m a Master’s student in Business Analytics with a passion for data-driven problem-solving. I specialize in data analysis, machine learning, and visualization, and enjoy building projects that turn insights into impactful results.
 
 ---
 
