@@ -34,7 +34,7 @@ A machine learning project predicting rental rates for properties along Tokyo’
 ---
 
 ## 🌱 What I'm Currently Learning
-- Advanced machine learning techniques.
+- Machine learning techniques.
 - Business analytics applications for marketing optimization.
 - Data visualization best practices.
 
